@@ -1,0 +1,2 @@
+# wordai-syn
+Synnonimization files
